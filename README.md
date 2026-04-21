@@ -3,7 +3,7 @@
 This project is a spatial analysis study focused on verifying the theoretical foundations of the **Clark-Evans Test** using Python-based simulations.
 
 ## Project Overview
-The study simulates **Complete Spatial Randomness (CSR)** in a unit square window to observe how the average nearest neighbor distance ($d_{min}$) behaves under different point densities ($N=10, 50, 100, 500$). 
+The study simulates **Complete Spatial Randomness (CSR)** in a unit square window to observe how the average nearest neighbor distance ($d_{min}$) behaves under different point densities (N=10, 50, 100, 500). 
 
 ### Key Features
 * **Monte Carlo Simulation:** 1000 iterations for each density level to ensure statistical reliability.
